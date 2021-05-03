@@ -100,9 +100,9 @@ if(keyPressed=="76"){
     new_image("spiderman_body.png");
     console.log("l");
 }
-if(keyPressed=="77"){
+if(keyPressed=="84"){
     new_image("spiderman_face.png");
-    console.log("m");
+    console.log("t");
 }
 if(keyPressed=="78"){
     new_image("spiderman_left_hand.png");
@@ -112,9 +112,9 @@ if(keyPressed=="79"){
     new_image("spiderman_legs.png");
     console.log("o");
 }
-if(keyPressed=="80"){
+if(keyPressed=="85"){
     new_image("spiderman_right_hand.png");
-    console.log("p");
+    console.log("u");
 }
 if(keyPressed=="81"){
     new_image("thor_face.png");
